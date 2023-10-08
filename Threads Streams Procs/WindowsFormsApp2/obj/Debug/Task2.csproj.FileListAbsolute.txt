@@ -1,0 +1,11 @@
+C:\Users\Niku_ac46\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Niku_ac46\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Niku_ac46\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Niku_ac46\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\Niku_ac46\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Niku_ac46\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Niku_ac46\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Niku_ac46\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\Task2.csproj.GenerateResource.cache
+C:\Users\Niku_ac46\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Niku_ac46\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Niku_ac46\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

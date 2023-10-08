@@ -1,0 +1,41 @@
+C:\Users\natigaliyev\source\repos\SysProg\SysProg\bin\Debug\SysProg.exe.config
+C:\Users\natigaliyev\source\repos\SysProg\SysProg\bin\Debug\SysProg.exe
+C:\Users\natigaliyev\source\repos\SysProg\SysProg\bin\Debug\SysProg.pdb
+C:\Users\natigaliyev\source\repos\SysProg\SysProg\obj\Debug\SysProg.csproj.AssemblyReference.cache
+C:\Users\natigaliyev\source\repos\SysProg\SysProg\obj\Debug\SysProg.csproj.SuggestedBindingRedirects.cache
+C:\Users\natigaliyev\source\repos\SysProg\SysProg\obj\Debug\SysProg.csproj.CoreCompileInputs.cache
+C:\Users\natigaliyev\source\repos\SysProg\SysProg\obj\Debug\SysProg.exe
+C:\Users\natigaliyev\source\repos\SysProg\SysProg\obj\Debug\SysProg.pdb
+C:\Users\Muse\Documents\SysProg\SysProg\bin\Debug\SysProg.exe.config
+C:\Users\Muse\Documents\SysProg\SysProg\bin\Debug\SysProg.exe
+C:\Users\Muse\Documents\SysProg\SysProg\bin\Debug\SysProg.pdb
+C:\Users\Muse\Documents\SysProg\SysProg\obj\Debug\SysProg.csproj.AssemblyReference.cache
+C:\Users\Muse\Documents\SysProg\SysProg\obj\Debug\SysProg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muse\Documents\SysProg\SysProg\obj\Debug\SysProg.csproj.CoreCompileInputs.cache
+C:\Users\Muse\Documents\SysProg\SysProg\obj\Debug\SysProg.exe
+C:\Users\Muse\Documents\SysProg\SysProg\obj\Debug\SysProg.pdb
+C:\Users\Muse\Documents\SysProg\SysProg\bin\Debug\TransportLibrary.dll
+C:\Users\Muse\Documents\SysProg\SysProg\bin\Debug\TransportLibrary.pdb
+C:\Users\Muse\Documents\SysProg\SysProg\obj\Debug\SysProg.csproj.CopyComplete
+C:\Users\Niku_ac46\Documents\SysProg\SysProg\bin\Debug\SysProg.exe.config
+C:\Users\Niku_ac46\Documents\SysProg\SysProg\bin\Debug\SysProg.exe
+C:\Users\Niku_ac46\Documents\SysProg\SysProg\bin\Debug\SysProg.pdb
+C:\Users\Niku_ac46\Documents\SysProg\SysProg\bin\Debug\TransportLibrary.dll
+C:\Users\Niku_ac46\Documents\SysProg\SysProg\bin\Debug\TransportLibrary.pdb
+C:\Users\Niku_ac46\Documents\SysProg\SysProg\obj\Debug\SysProg.csproj.AssemblyReference.cache
+C:\Users\Niku_ac46\Documents\SysProg\SysProg\obj\Debug\SysProg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Niku_ac46\Documents\SysProg\SysProg\obj\Debug\SysProg.csproj.CoreCompileInputs.cache
+C:\Users\Niku_ac46\Documents\SysProg\SysProg\obj\Debug\SysProg.csproj.CopyComplete
+C:\Users\Niku_ac46\Documents\SysProg\SysProg\obj\Debug\SysProg.exe
+C:\Users\Niku_ac46\Documents\SysProg\SysProg\obj\Debug\SysProg.pdb
+C:\Users\markn\Downloads\System Programming\SysProg\SysProg\bin\Debug\SysProg.exe.config
+C:\Users\markn\Downloads\System Programming\SysProg\SysProg\bin\Debug\SysProg.exe
+C:\Users\markn\Downloads\System Programming\SysProg\SysProg\bin\Debug\SysProg.pdb
+C:\Users\markn\Downloads\System Programming\SysProg\SysProg\bin\Debug\TransportLibrary.dll
+C:\Users\markn\Downloads\System Programming\SysProg\SysProg\bin\Debug\TransportLibrary.pdb
+C:\Users\markn\Downloads\System Programming\SysProg\SysProg\obj\Debug\SysProg.csproj.AssemblyReference.cache
+C:\Users\markn\Downloads\System Programming\SysProg\SysProg\obj\Debug\SysProg.csproj.SuggestedBindingRedirects.cache
+C:\Users\markn\Downloads\System Programming\SysProg\SysProg\obj\Debug\SysProg.csproj.CoreCompileInputs.cache
+C:\Users\markn\Downloads\System Programming\SysProg\SysProg\obj\Debug\SysProg.csproj.CopyComplete
+C:\Users\markn\Downloads\System Programming\SysProg\SysProg\obj\Debug\SysProg.exe
+C:\Users\markn\Downloads\System Programming\SysProg\SysProg\obj\Debug\SysProg.pdb
